@@ -1,0 +1,95 @@
+.control {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 150px;
+}
+
+.control .line {
+    width: 250px;
+    height: 4px;
+    background: #fff;
+    margin: 0 20px;
+    border-radius: 2px;
+}
+
+.control .line span {
+    width: 50%;
+    height: 8px;
+    margin-top: -2px;
+    border-radius: 4px;
+    background: #00986f;
+    display: block;
+}
+
+.social-media{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.insta{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.twit{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.linke{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.yout{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.pin{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
